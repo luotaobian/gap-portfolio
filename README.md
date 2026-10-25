@@ -4,8 +4,10 @@ Bian Luotao · luotaobian@gmail.com
 
 Live portfolio: https://luotaobian.github.io/gap-portfolio/
 
-A short film with a concise analysis reel, an eight-page case study and a one-page résumé. Selected findings use source timecodes and distinguish observation, interpretation and revision.
+2026-10-25 AV revision: a 107.167-second 1080p/24 fps analysis reel, an eight-page case study and a one-page résumé. Continuous final-master excerpts demonstrate the cut at 05:36:16, staircase off-screen sound, restaurant reactions, two legibility risks and an unresolved ending.
 
-The original film was written and directed by Bian Luotao, who also completed its editing, colour and sound post. Cinematography, production, location sound and lighting credits are listed on the site. This case study used AI assistance for frame sampling, measurements, analysis drafts, reel assembly and layout. It makes no claim of an independently completed hiring assessment or a completed listening review.
+Bian Luotao wrote and directed the original film and completed its editing, colour and sound post. Other crew credits and his education are listed on the site. The retrospective case study used AI-assisted video/audio analysis, frame sampling, measurements, drafts, reel assembly and layout. Uncertain dialogue and sound-source identifications are not presented as established facts. He then listened on headphones to every reel excerpt and the corresponding passages of the original film, and agrees with the observations. A complete frame-by-frame review has not been done.
 
-Source footage is the finished 2022 master. No grading before/after comparisons or unavailable camera originals are presented.
+The source is the finished 2022 master, with existing English subtitles. Camera originals and the Resolve project are unavailable. Each reel excerpt retains its original sequence and main mono audio; no before/after grade is presented.
+
+The canonical editable site is `index.html`. Preserve its user-edited education and credit paragraphs. Do not run the superseded `build_site_revision.py` or `integrate_revision.py`: they contain the old v2 copy. Final public assets are copied explicitly; private application documents do not belong in this site.
